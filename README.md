@@ -2,7 +2,7 @@
 
 ![Group 564](https://github.com/HyroeVRC/TiktokToOSC/assets/170990155/fc085160-6bb6-41eb-a3e1-0c737d851392)
 
-## Hey there, it's Hyroe! :3
+## Hey there, it's Hyroe ! :3
 
 Let me show you how people in your TikTok Live can interact with your avatar on VRChat.
 
@@ -10,7 +10,7 @@ Let me show you how people in your TikTok Live can interact with your avatar on 
 
 ### Setup Your Python Environment
 
-1. **Download PyCharm Community** : [Download Here](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC).
+1. **Download PyCharm Community** : [Download Here](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=windows&code=PCC)
 
 2. **Create a New Python Project** :
    - Open PyCharm and create a new project.
@@ -76,23 +76,23 @@ Let me show you how people in your TikTok Live can interact with your avatar on 
 
 ### Enable OSC Server
 
-1. **Enable OSC Server in VRChat**:
+1. **Enable OSC Server in VRChat** :
    - Go to VRChat settings and enable the OSC server.
 
    ![Enable OSC Server](https://github.com/HyroeVRC/TiktokToOSC/assets/170990155/3411ea1b-76cd-4bc1-b9fe-a91c14ae7df7)
    ![OSC Server Settings](https://github.com/HyroeVRC/TiktokToOSC/assets/170990155/78359d0e-7062-4bb9-b16a-b3816f448580)
 
-2. **Start Your TikTok Live and Run Your Code**:
+2. **Start Your TikTok Live and Run Your Code** :
    - Once live and with your code running, check the OSC Debug Panel in VRChat to see the incoming data.
 
    ![OSC Debug Panel](https://github.com/HyroeVRC/TiktokToOSC/assets/170990155/5b4cf95a-1ff3-4b30-a78a-72b157a58a08)
    ![OSC Debug Panel Details](https://github.com/HyroeVRC/TiktokToOSC/assets/170990155/9524090b-ffe9-4c01-90c9-57908f367a52)
 
-> If it doesn't work for some people, feel free to reach out with any ideas or questions! :3
+> If it doesn't work for some people, feel free to reach out with any ideas or questions ! :3
 
-Have a wonderful day/night!
+Have a wonderful day/night !
 
-→ Follow me on my socials:
+→ Follow me on my socials :
 - [TikTok](https://www.tiktok.com/@hyroe)
 - [Twitter](https://x.com/_Hyroe_)
 - [Instagram](https://www.instagram.com/hyroevr/)
