@@ -42,7 +42,7 @@ Let me show you how people in your TikTok Live can interact with your avatar on 
 ### Configure OSC Parameters
 
 1. **Understand OSC Parameters** :
-   - Read the [VRChat OSC Avatar Parameters Documentation](https://docs.vrchat.com/docs/osc-avatar-parameters).
+   - Read the [VRChat OSC Avatar Parameters Documentation](https://docs.vrchat.com/docs/osc-avatar-parameters)
 
 2. **Get Your Avatar's Blueprint ID** :
    - Copy the Blueprint ID from the Pipeline Manager Component of your avatar in your Unity project.
