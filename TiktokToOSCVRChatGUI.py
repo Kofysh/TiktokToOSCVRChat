@@ -6,7 +6,7 @@ import threading
 import logging
 from pythonosc import udp_client
 from TikTokLive import TikTokLiveClient
-from TikTokLive.types.events import GiftEvent, CommentEvent
+from TikTokLive.events import GiftEvent, CommentEvent
 import socket
 import os
 
